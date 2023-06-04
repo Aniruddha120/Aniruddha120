@@ -16,11 +16,7 @@ I'm Aniruddha. I am an Artificail Intelligence, Quantum Computing and Material S
 💬 You can ask me about Artificial Intelligence and Material Science 
 
 ## My Kaggle Stats:
-![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?ANIRUDDHAsarkar)
-
-## My Codeforces Stats:
-
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SarkarAniruddha)
+![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?ANIRUDDHAsarkar)[]![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SarkarAniruddha)
 
 ## Operating System That I use: 
 
