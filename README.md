@@ -15,7 +15,7 @@ I'm Aniruddha. I am an Artificail Intelligence, Quantum Computing and Material S
 
 💬 You can ask me about Artificial Intelligence and Material Science 
 
-## Mt Codeforces Stats:
+## My Codeforces Stats:
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SarkarAniruddha)
 
