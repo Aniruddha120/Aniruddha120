@@ -13,10 +13,12 @@ I'm Aniruddha. I am an Artificail Intelligence, Quantum Computing and Material S
 
 👯‍♀️ I'm looking to collaborate on Quantum Computing and Artificial Intelligence
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aniruddha120&theme=nord_dark)
+
 💬 You can ask me about Artificial Intelligence and Material Science 
 
-##                                                                My Kaggle and Codeforces Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aniruddha120&theme=nord_dark)![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?ANIRUDDHAsarkar)![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SarkarAniruddha)
+## My Kaggle and Codeforces Stats:
+![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?ANIRUDDHAsarkar)![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SarkarAniruddha)
 
 ## Operating System That I use: 
 
