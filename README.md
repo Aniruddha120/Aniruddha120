@@ -7,27 +7,22 @@ I'm Aniruddha. I am an Artificail Intelligence, Quantum Computing and Material S
 
 
 ## At a Glance..
+
 👩‍💻 I'm currently working on Artificial Intelligence
 
-🧠 I'm currently learning more indepth on Artificial Intelligence
-
 👯‍♀️ I'm looking to collaborate on Quantum Computing and Artificial Intelligence
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aniruddha120&theme=nord_dark)
 
 💬 You can ask me about Artificial Intelligence and Material Science 
 
 ## My Kaggle and Codeforces Stats:
-![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?ANIRUDDHAsarkar)![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SarkarAniruddha)
+![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?ANIRUDDHAsarkar)
+
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SarkarAniruddha)
 
 ## Operating System That I use: 
 
 [![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
 [![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
-
-## Summary
-
-
 
 ## Let's Get Connected !
 
