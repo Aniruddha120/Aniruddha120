@@ -3,30 +3,27 @@
 
 Hi! 
 
-I'm Aniruddha. I am an Artificail Intelligence, Quantum Computing and Material Science Enthusiast. I love to do research and code. 
+I'm Aniruddha. I am an Artificail Intelligence, Enthusiast. I love to do research and code. 
 
 
 ## At a Glance..
 
-👩‍💻 I'm currently working on Artificial Intelligence
+👩‍💻 I'm currently working on the applied fields of Artificial Intelligence
 
-👯‍♀️ I'm looking to collaborate on Quantum Computing and Artificial Intelligence
+👯‍♀️ I'm looking to collaborate on Artificial Intelligence
 
-💬 You can ask me about Artificial Intelligence and Material Science 
+## My Ongoing Projects 🛠 :
+1. CNN Based Skin Disease Detection Using Ham10000 Dataset
+2. Machine learning and Deeplearning Algorithms on real time problems
 
-## My Kaggle and Codeforces Stats:
-![](https://kaggle-card.chienhsiang-hung.eu.org/api/svg-allround?ANIRUDDHAsarkar)
+## My Codeforces Stats:
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SarkarAniruddha)
 
-## Operating System That I use: 
-
-[![Linux](https://svgshare.com/i/Zhy.svg)](https://svgshare.com/i/Zhy.svg)
-[![Windows](https://svgshare.com/i/ZhY.svg)](https://svgshare.com/i/ZhY.svg)
 
 ## Let's Get Connected !
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/aniruddhasarkar/home?authuser=0)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/aisarqar)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarkar-aniruddha/)
 
