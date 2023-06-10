@@ -3,8 +3,7 @@
 
 Hi! 
 
-I'm Aniruddha. I am an Artificail Intelligence, Enthusiast. I love to do research and code. 
-
+I'm Aniruddha. I am a Machine Learning and Deep Learning enthusiast. I love to do research and code. I have previous experience in Additive Manufacturing and Material Science, which makes me think diverse to solve problems from multiple perspectives.
 
 ## At a Glance..
 
