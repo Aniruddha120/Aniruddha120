@@ -11,7 +11,8 @@ I'm Aniruddha. I am a Machine Learning and Deep Learning enthusiast. I love to d
 
 👯‍♀️ I'm looking to collaborate on Artificial Intelligence
 
-## My Ongoing Projects 🛠 :
+<h2 align="center"> My Ongoing Projects 🛠 : </h2>
+  
 1. CNN Based Skin Disease Detection Using Ham10000 Dataset
 2. Machine learning and Deeplearning Algorithms on real time problems
 
