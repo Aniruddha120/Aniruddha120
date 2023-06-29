@@ -1,4 +1,3 @@
-
 # Welcome to my profile!
 
 Hi! 
@@ -16,10 +15,13 @@ I'm Aniruddha. I am a Machine Learning and Deep Learning enthusiast. I love to d
 1. CNN Based Skin Disease Detection Using Ham10000 Dataset
 2. Machine learning and Deeplearning Algorithms on real time problems
 
-## My Codeforces Stats:
+<h2 align="center"> My Codeforces Stats & Kaggle Stats</h2>
 
 ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=SarkarAniruddha)
-
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniruddhasarkar/competition/light)
+![dataset](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniruddhasarkar/dataset/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniruddhasarkar/notebook/light)
+![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniruddhasarkar/discussion/light)
 
 ## Let's Get Connected !
 
@@ -28,4 +30,3 @@ I'm Aniruddha. I am a Machine Learning and Deep Learning enthusiast. I love to d
 ## Feedback
 
 If you have any feedback, please reach out to me at aniruddhas588@gmail.com
-
