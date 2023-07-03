@@ -3,6 +3,7 @@
 Hi! 
 
 I'm Aniruddha. I am a Machine Learning and Deep Learning enthusiast. I love to do research and code. I have previous experience in Additive Manufacturing and Material Science, which makes me think diverse to solve problems from multiple perspectives.
+<div style="text-align:center"><img src="https://github.com/Aniruddha120/Aniruddha120/assets/34673269/5e3b2165-729b-4a76-abdd-84c7e8cb2f17" /></div>
 
 ## At a Glance..
 
