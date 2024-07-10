@@ -20,13 +20,6 @@ I'm Aniruddha. I am a Machine Learning and Deep Learning enthusiast. I love to d
 2. Machine learning and Deep learning Algorithms on real-time problems
 
 
-<h2 align="center"> Kaggle Stats</h2>
-<p align="center">
-  <img alt="Kaggle Stats" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniruddhasarkar/competition/light" />
-  <img alt="Kaggle Stats" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniruddhasarkar/dataset/light" />
-  <img alt="Kaggle Stats" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniruddhasarkar/notebook/light" />
-  <img alt="Kaggle Stats" src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/aniruddhasarkar/discussion/light" />
-</p>
 
 <h2 align="center"> My Codeforces Stats </h2>
 
