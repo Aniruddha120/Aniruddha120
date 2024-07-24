@@ -12,6 +12,10 @@ I'm Aniruddha. I am a Machine Learning and Deep Learning enthusiast. I love to d
 
 👩‍💻 I'm currently working on the applied fields of Artificial Intelligence
 
+<p align="center">
+  <img alt="Codeforces Stats" src="https://roadmap.sh/card/wide/66a1325623c186c28d52890c?variant=dark" />
+</p>
+
 👯‍♀️ I'm looking to collaborate on Artificial Intelligence
 
 <h2 align="center"> My Ongoing Projects 🛠 : </h2>
