@@ -3,7 +3,7 @@
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sites.google.com/view/sarkari4/home)  [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarkar-aniruddha/)
 
-I am a backend developer focused on building APIs, data-driven applications, and AI-powered backend systems using Python and FastAPI.
+I am a backend developer focused on building APIs, data-driven applications, and AI-powered backend systems using Python(FastAPI) and Java Script.
 
 I am currently strengthening my skills in backend architecture, databases, and real-time data systems through hands-on projects involving authentication systems, RAG pipelines, and IoT data processing.
 
