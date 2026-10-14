@@ -23,7 +23,7 @@ My goal is to build production-ready backend systems that connect data, AI, and 
 
 ## Tech Stack
 
-**Backend:** Python, FastAPI, Pydantic, SQLAlchemy  
+**Backend:** Nextjs, Python, FastAPI, Pydantic, SQLAlchemy  
 **Databases:** PostgreSQL, SQLite, TimescaleDB, pgvector  
 **AI/ML:** PyTorch, Scikit-learn, OpenCV  
 **Infra:** Docker, Git, Linux  
